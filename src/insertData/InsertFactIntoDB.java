@@ -11,13 +11,12 @@ import model.Event;
 import model.Fact;
 
 public class InsertFactIntoDB {
-	public static void insert() throws ClassNotFoundException, SQLException {
+	public static void insert(int n) throws ClassNotFoundException, SQLException {
 
 		Connection connection = ConnectionUtils.getMyConnection();
 		
 		Statement statement = connection.createStatement();
 		
-		int n = 20;
 		List<Fact<?, ?>> facts = generateData.generateFact.getListFacts(n);
 		
 		

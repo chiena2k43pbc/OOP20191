@@ -45,6 +45,7 @@ public class generateOrganization {
 				orgs[i].setLocation(location);
 				orgs[i].setDescription("Tổ chức có tên " + orgs[i].getName() + ", có địa chỉ tại địa điểm có định danh " + orgs[i].getLocation().getIdentifier());
 			}
+			sc.close();
 		} 
 		catch (Exception e) {
 			System.out.println(e);

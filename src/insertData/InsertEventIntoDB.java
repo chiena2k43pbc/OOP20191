@@ -27,7 +27,7 @@ public class InsertEventIntoDB {
 					sql += ",";
 			}
 			sql += ";";
-			System.out.println(sql);
+			//System.out.println(sql);
 			try {
 				statement.executeUpdate(sql);
 				System.out.println("Insert success!!");

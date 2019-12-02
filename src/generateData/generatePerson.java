@@ -185,16 +185,16 @@ public class generatePerson {
 	}
 	public static List<Person> generatePersons(int n) {
 		List<Person> lst = new ArrayList<Person>();
-		lst.addAll(generateVNName(1000));
-		lst.addAll(generateENName(1000));
-		lst.addAll(generateUSName(1000));
-		lst.addAll(generateCHIName(1000));
-		lst.addAll(generateKORName(1000));
-		lst.addAll(generateJPName(1000));
-		lst.addAll(generateSPAName(1000));
-		lst.addAll(generateRUSName(1000));
-		lst.addAll(generateFRAName(1000));
-		lst.addAll(generateGERName(1000));
+		lst.addAll(generateVNName(n));
+		lst.addAll(generateENName(n));
+		lst.addAll(generateUSName(n));
+		lst.addAll(generateCHIName(n));
+		lst.addAll(generateKORName(n));
+		lst.addAll(generateJPName(n));
+		lst.addAll(generateSPAName(n));
+		lst.addAll(generateRUSName(n));
+		lst.addAll(generateFRAName(n));
+		lst.addAll(generateGERName(n));
 		return lst;
 	}
 	public static void main(String[] args) {

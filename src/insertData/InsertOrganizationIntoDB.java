@@ -8,13 +8,12 @@ import connectDB.ConnectionUtils;
 import model.Organization;
 
 public class InsertOrganizationIntoDB {
-	public static void insert() throws ClassNotFoundException, SQLException {
+	public static void insert(int n) throws ClassNotFoundException, SQLException {
 
 		Connection connection = ConnectionUtils.getMyConnection();
 
 		Statement statement = connection.createStatement();
 		
-		int n = 10000;
 		Organization[] c = generateData.generateOrganization.getListOrganizations(n);
 		
 		String sql = "INSERT INTO oop.organization VALUES";

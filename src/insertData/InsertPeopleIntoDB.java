@@ -8,14 +8,13 @@ import model.*;
 import connectDB.ConnectionUtils;
 
 public class InsertPeopleIntoDB {
-		public static void insert() throws ClassNotFoundException, SQLException {
+		public static void insert(int n) throws ClassNotFoundException, SQLException {
 
 			Connection connection = ConnectionUtils.getMyConnection();
 	
 			Statement statement = connection.createStatement();
 			
-			int n = generateData.generatePerson.nPerson;
-			List<Person> c = generateData.generatePerson.generatePersons(0);
+			List<Person> c = generateData.generatePerson.generatePersons(n / 10);
 			
 			String sql = "INSERT INTO oop.person VALUES";
 			for(int i = 0; i < c.size(); i++)

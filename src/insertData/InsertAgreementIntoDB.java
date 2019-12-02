@@ -9,13 +9,12 @@ import model.Agreement;
 import model.Time;
 
 public class InsertAgreementIntoDB {
-	public static void insert() throws ClassNotFoundException, SQLException {
+	public static void insert(int n) throws ClassNotFoundException, SQLException {
 
 		Connection connection = ConnectionUtils.getMyConnection();
 
 		Statement statement = connection.createStatement();
 		
-		int n = 10000;
 		Agreement[] c = generateData.GenerateAgreement.getListAgreements(n);
 		
 		String sql = "INSERT INTO oop.agreement VALUES";

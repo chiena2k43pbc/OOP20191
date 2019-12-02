@@ -49,7 +49,7 @@ public class test {
 		List<Fact<Person, Agreement>> facts = generateData.generateFact.getListFactPER2AGR(15);
 		for(Fact<Person, Agreement> f : facts)
 			System.out.println(f.getObject1().getIdentifier() + " " + f.getRelationship() + " " + f.getObject2().getIdentifier());*/
-		insertData.InsertFactIntoDB.insert();
+		insertData.InsertFactIntoDB.insert(1000);
 	}
 
 }

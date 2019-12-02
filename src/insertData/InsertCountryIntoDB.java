@@ -19,7 +19,7 @@ public class InsertCountryIntoDB {
 			for(int i = 0; i < 9; i++)
 				sql += "('" + c[i].getIdentifier() + "', '" + c[i].getName() + "', '" + c[i].getDescription() + "'), ";
 			sql += "('" + c[9].getIdentifier() + "', '" + c[9].getName() + "', '" + c[9].getDescription() + "'); ";
-			System.out.println(sql);
+			//System.out.println(sql);
 			try {
 				statement.executeUpdate(sql);
 				connection.close();

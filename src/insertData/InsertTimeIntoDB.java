@@ -7,13 +7,12 @@ import model.*;
 import connectDB.ConnectionUtils;
 
 public class InsertTimeIntoDB {
-		public static void insert() throws ClassNotFoundException, SQLException {
+		public static void insert(int n) throws ClassNotFoundException, SQLException {
 
 			Connection connection = ConnectionUtils.getMyConnection();
 	
 			Statement statement = connection.createStatement();
 			
-			int n = 10000;
 			Time[] c = generateData.generateTime.getListTimes(n);
 			
 			String sql = "INSERT INTO oop.time VALUES";

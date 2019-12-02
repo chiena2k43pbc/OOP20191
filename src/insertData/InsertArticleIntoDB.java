@@ -9,13 +9,12 @@ import model.Article;
 import model.Time;
 
 public class InsertArticleIntoDB {
-	public static void insert() throws ClassNotFoundException, SQLException {
+	public static void insert(int n) throws ClassNotFoundException, SQLException {
 
 		Connection connection = ConnectionUtils.getMyConnection();
 
 		Statement statement = connection.createStatement();
 		
-		int n = 10000;
 		Article[] ar = generateData.GenerateArticle.getListArticles(n);
 		
 		String sql = "INSERT INTO oop.article VALUES";
