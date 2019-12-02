@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/generateData/GenerateAgreement.java=UTF-8
+encoding//src/generateData/GenerateArticle.java=UTF-8
+encoding//src/generateData/GenerateEvent.java=UTF-8
+encoding//src/generateData/generateFact.java=UTF-8
+encoding//src/generateData/generateLocation.java=UTF-8
+encoding//src/generateData/generateOrganization.java=UTF-8
+encoding//src/generateData/generatePerson.java=UTF-8
+encoding//src/generateData/generateTime.java=UTF-8

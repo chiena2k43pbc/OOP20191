@@ -1,0 +1,236 @@
+﻿An Giang
+Bà Rịa-Vũng Tàu
+Bạc Liêu
+Bắc Kạn
+Bắc Giang
+Bắc Ninh
+Bến Tre
+Bình Dương
+Bình Định
+Bình Phước
+Bình Thuận
+Cà Mau
+Cao Bằng
+Cần Thơ
+Đà Nẵng
+Đắk Lắk
+Đắk Nông
+Điện Biên
+Đồng Nai
+Đồng Tháp
+Gia Lai
+Hà Giang
+Hà Nam
+Thủ đô Hà Nội
+Hà Tây
+Hà Tĩnh
+Hải Dương
+Hải Phòng
+Hòa Bình
+Thành phố Hồ Chí Minh
+Hậu Giang
+Hưng Yên
+Khánh Hòa
+Kiên Giang
+Kon Tum
+Lai Châu
+Lào Cai
+Lạng Sơn
+Lâm Đồng
+Long An
+Nam Định
+Nghệ An
+Ninh Bình
+Ninh Thuận
+Phú Thọ
+Phú Yên
+Quảng Bình
+Quảng Nam
+Quảng Ngãi
+Quảng Ninh
+Quảng Trị
+Sóc Trăng
+Sơn La
+Tây Ninh
+Thái Bình
+Thái Nguyên
+Thanh Hóa
+Thừa Thiên – Huế
+Tiền Giang
+Trà Vinh
+Tuyên Quang
+Vĩnh Long
+Vĩnh Phúc
+Yên Bái
+New York, bang New York
+Los Angeles, bang California
+Chicago, bang Illinois
+Houston, bang Texas
+Philadelphia, bang Pennsylvania
+Phoenix, bang Arizona
+San Antonio, bang Texas
+San Diego, bang California
+Dallas, bang Texas
+San Jose, bang California
+Jacksonville[h], bang Florida
+Indianapolis[g], bang Indiana
+San Francisco, bang California
+Austin, bang Texas
+Columbus, bang Ohio
+Fort Worth, bang Texas
+Charlotte, bang North Carolina
+Detroit, bang Michigan
+El Paso, bang Texas
+Memphis, bang Tennessee
+London
+Birmingham
+Glasgow	Scotland
+Liverpool
+Bristol
+Manchester
+Sheffield
+Leeds
+Edinburgh
+Leicester
+Cardiff
+Coventry
+Kingston upon Hull
+Bradford
+Nottingham
+Belfast
+Stoke-on-Trent
+Plymouth
+Wolverhampton
+Southampton
+Thành phố Tokyo, Đảo Honshū
+Tokushima, Đảo Shikoku
+Nagano, Đảo Honshū
+Nagasaki, Đảo Kyūshū
+Okayama, Đảo Honshū
+Hokkaido, Đảo Hokkaidō
+Hyogo, Đảo Honshū
+Ibaraki, Đảo Honshū
+Fukuoka, Đảo Kyūshū
+Ehime, Đảo Shikoku
+Aichi, Đảo Honshū
+Akita, Đảo Honshū
+Aomori, Đảo Honshū
+Chiba, Đảo Honshū
+Iwate, Đảo Honshū
+Kagawa, Đảo Shikoku
+Kagoshima, Đảo Kyūshū
+Kanagawa, Đảo Honshū
+Kochi, Đảo Shikoku
+Kumamoto, Đảo Kyūshū
+Chungcheong, Vùng Hoseo
+Gangwon, Vùng Gwandong
+Gyeonggi, Vùng Sudogwon
+Gyeongsang, Vùng Yeongnam
+Jeju, Vùng Jeju
+Jeolla , Vùng Honam
+Hamgyeong, Vùng Gwannam
+Hwanghae, Vùng Haeseo
+Pyeongan Bắc, Vùng Gwanseo
+Pyeongan Nam, Vùng Gwanseo
+An Huy
+Phúc Kiến
+Cam Túc
+Quảng Đông
+Quý Châu
+Hải Nam
+Hà Bắc
+Hắc Long Giang
+Hà Nam
+Hồ Bắc
+Hồ Nam
+Giang Tô
+Giang Tây
+Cát Lâm
+Liêu Ninh
+Thanh Hải
+Thiểm Tây
+Sơn Đông
+Sơn Tây
+Tứ Xuyên
+Vân Nam
+Chiết Giang
+Álava, Xứ Basque
+Albacete, Castile-La Mancha
+Alicante, Community of Valencia
+Toledo, Castile-La Mancha
+Valencia, Community of Valencia
+Valladolid, Baleares Islands
+Zamora, Baleares Islands
+Guipúzcoa, Xứ Basque
+Madrid, Community of Madrid
+Bilbao, Xứ Basque
+Berlin
+Hamburg
+München
+Köln
+Frankfurt am Main
+Stuttgart
+Dortmund
+Düsseldorf
+Essen
+Bremen
+Hannover
+Leipzig
+Dresden
+Nürnberg
+Duisburg
+Bochum
+Wuppertal
+Bielefeld
+Bonn
+Mannheim
+Paris
+Marseille
+Lyon
+Toulouse
+Nice
+Nantes
+Strasbourg
+Montpellier
+Bordeaux
+Lille
+Rennes
+Reims
+Le Havre
+Saint-Etienne
+Toulon
+Grenoble
+Angers
+Dijon
+Brest
+Le Mans
+Nîmes
+Clermont-Ferrand
+Aix-en-Provence
+Tours
+Amiens
+Limoges
+Villeurbanne
+Saint-Denis
+Metz
+Besançon
+Moskva
+Saint Petersburg
+Novosibirsk
+Nizhny Novgorod
+Yekaterinburg
+Samara
+Omsk
+Kazan
+Chelyabinsk
+Rostov-na-Donu
+Ufa
+Volgograd
+Perm
+Krasnoyarsk
+Saratov
+Voronezh
+Tolyatti
+Krasnodar
+Ulyanovsk
+Izhevsk
